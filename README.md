@@ -48,6 +48,7 @@ For easy analysis, I have transformed each offer into the following code:
 "**offer type** - **Difficulty** - **Reward** - **Duration** "
 For example: " **discount-10-2-10** " means It is a **discount** offer which requires **$10** to trigger the offer, Gives a reward of **$2** and must be completed within **10 days**
 
+--- 
 ## MAVEN CAFE: PROMOTIONAL OFFERS COMPREHENSIVE REPORT
 
 ### Offers and Offer Types Performance Analysis
@@ -64,7 +65,8 @@ For example: " **discount-10-2-10** " means It is a **discount** offer which req
 ### Channel Performance and View Rate Analysis
 Out of the **75.68%** of people who viewed the offers, **57%** completed them, highlighting the importance of channel performance analysis. **Web** platforms (e.g., Google, Bing) had the **highest redemption rate (67%)** despite a **72% view rate**. In contrast, **social media** platforms achieved a **93% view rate** but only a **50%** of these were fulfilled, demonstrating a ***stronger propensity for customers to fulfill offers viewed on web platforms***. This analysis is shown when you filter through the various channels
 
-![image](https://github.com/user-attachments/assets/ec830e75-79a5-4618-8968-db4004a7ce71)
+![image](https://github.com/user-attachments/assets/e4b059f8-e9ea-42e2-8ef6-aa8d65253a17)
+
 
 ### Impact of Reward Size and Offer Durations
 
