@@ -88,3 +88,4 @@ Offers sent every **3-4 days** resulted in a **50%** **increase** in **redemptio
 
 
 [Click for Live Dashboard](https://app.powerbi.com/groups/me/reports/4cab4b17-8d9f-42ee-b7ca-c7dbcec72fe9/df410caf5b1688659ee0?experience=power-bi) 
+and [Here for the Power BI file](https://github.com/FOyelude/MAVEN-CAFE-REWARDS-ANALYSIS/blob/main/PROJECT.pbix)
